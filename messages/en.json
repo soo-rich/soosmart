@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "formations": "Training",
+    "realisations": "Projects",
+    "contact": "Contact",
+    "cta": "Start a project"
+  },
+  "hero": {
+    "badge": "Certified NTIC Integrator",
+    "title": "Network & Cybersecurity",
+    "subtitle": "next generation",
+    "description": "SOOSMART GROUP designs and secures critical enterprise network infrastructures. Certified by Cisco, Microsoft & CompTIA.",
+    "cta_primary": "Our Services",
+    "cta_secondary": "View our projects",
+    "stats": {
+      "projects": "Projects completed",
+      "clients": "Satisfied clients",
+      "certifications": "Certifications",
+      "years": "Years of expertise"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete solutions for your IT infrastructure",
+    "network": {
+      "title": "Networks & Telecommunications",
+      "description": "Design, deployment and maintenance of high-performance network infrastructures. LAN/WAN, Enterprise Wi-Fi, MPLS, SD-WAN."
+    },
+    "security": {
+      "title": "Cybersecurity",
+      "description": "Advanced protection of your systems and data. Firewall, VPN, SIEM, security audit, penetration testing and SOC."
+    },
+    "voip": {
+      "title": "Voice over IP (VoIP)",
+      "description": "Modern and cost-effective enterprise telephony solutions. Unified Communications, IP call center, CRM integration."
+    },
+    "support": {
+      "title": "Support & Maintenance",
+      "description": "24/7 technical assistance, proactive monitoring, helpdesk and preventive maintenance of your equipment."
+    },
+    "cloud": {
+      "title": "Cloud & Virtualization",
+      "description": "Cloud migration, server virtualization, Azure & Microsoft 365 management, backup and disaster recovery."
+    },
+    "consulting": {
+      "title": "Consulting & Audit",
+      "description": "Audit of your existing infrastructure, digital transformation plan and IT strategic support."
+    }
+  },
+  "formations": {
+    "title": "Our Training",
+    "subtitle": "Globally recognized certifications",
+    "categories": {
+      "cisco": "Cisco",
+      "microsoft": "Microsoft",
+      "comptia": "CompTIA",
+      "bureautique": "Office Suite"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Technological excellence at your service",
+    "description": "SOOSMART GROUP is an NTIC solutions integrator, with a dynamic and highly experienced team, whose objective is to build high-performance and secure networks with cutting-edge technologies.",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values"
+  },
+  "realisations": {
+    "title": "Our Projects",
+    "subtitle": "Key projects we have successfully completed"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's start your project together",
+    "name": "Full name",
+    "email": "Email",
+    "company": "Company",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send message",
+    "success": "Message sent successfully!",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "tagline": "Building tomorrow's networks, securing your future.",
+    "rights": "All rights reserved."
+  }
+}
