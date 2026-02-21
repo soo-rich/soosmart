@@ -24,7 +24,17 @@ export async function generateMetadata({
     description: isFr
       ? "Intégrateur NTIC certifié — Réseaux, Cybersécurité, VoIP, Cloud. Certifiés Cisco, Microsoft & CompTIA."
       : "Certified NTIC Integrator — Networks, Cybersecurity, VoIP, Cloud. Certified by Cisco, Microsoft & CompTIA.",
-    keywords: ["réseau", "cybersécurité", "Cisco", "CCNA", "CCNP", "Microsoft", "VoIP", "cloud", "IT"],
+    keywords: [
+      "réseau",
+      "cybersécurité",
+      "Cisco",
+      "CCNA",
+      "CCNP",
+      "Microsoft",
+      "VoIP",
+      "cloud",
+      "IT",
+    ],
     openGraph: {
       type: "website",
       locale: isFr ? "fr_FR" : "en_US",
@@ -55,7 +65,11 @@ export default async function LocaleLayout({
     <html lang={locale} className="scroll-smooth">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="bg-dark-800 text-white antialiased">
         <NextIntlClientProvider messages={messages}>
